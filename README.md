@@ -3,5 +3,5 @@ Este shell script se encarga de instalar GNURadio con addons y los drivers de US
 
 Para ejecutarlo simplemente hay que hacer:
 '''sh
-chmod 755 
+chmod 755 installation.sh
 '''
