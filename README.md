@@ -4,6 +4,7 @@ Este shell script se encarga de instalar GNURadio con addons y los drivers de US
 Para ejecutarlo simplemente hay que hacer:
 
 ```sh
+$ sudo apt install git
 $ git clone https://github.com/Quik-e/GNURadio-and-USRP-installation.git
 $ sudo chmod 755 GNURadio-and-USRP-installation/install_gnuradio.sh
 $ ./GNURadio-and-USRP-installation/install_gnuradio.sh
