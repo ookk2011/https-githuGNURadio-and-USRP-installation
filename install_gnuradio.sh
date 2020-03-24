@@ -32,7 +32,7 @@ sudo dpkg -i *.deb
 cd ..
 rm -v -R installation_files
 # Instalo drivers de la Ettus en la compu
-sudo apt install --fix-broken
+sudo apt install --fix-broken -y
 sudo uhd_images_downloader
 # Verificar que funciona
 while true; do
